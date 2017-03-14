@@ -2384,9 +2384,6 @@
                     <div class="w3-panel w3-center bottomborder">
                         <font style="color:white"><a href="contact.phtml">Contact</a></font>
                     </div>
-                    <div class="w3-panel w3-center">
-                        <font style="color:white"><a href="adminsignin.php">Admin Section</a></font>
-                    </div>
                 </div>
             </div>
             <div style="position:relative;bottom:25px;z-index:1;" class="w3-tooltip w3-right">
